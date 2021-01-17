@@ -1,0 +1,13 @@
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.exe
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.deps.json
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.runtimeconfig.json
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.runtimeconfig.dev.json
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.dll
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\TheSynthShop.pdb
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.csprojAssemblyReference.cache
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.AssemblyInfoInputs.cache
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.AssemblyInfo.cs
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.csproj.CoreCompileInputs.cache
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.dll
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.pdb
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.genruntimeconfig.cache
