@@ -7,20 +7,22 @@ namespace TheSynthShop
      
 
 
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("The Synth Shop!");
 
             Console.WriteLine("Buy a synth? ");
-            string OneSynth = Console.ReadLine();
+            string v = Console.ReadLine();
+            string OneSynth = v;
 
                string Yes = "Yes";
 
         do{
-            Console.WriteLine("i = {Yes}", Yes);
-            
+           
+            Console.WriteLine("i = {0}", Yes);
+                break;
 
-        }while (Yes == "Yes");
+            } while (Yes == "Yes");
 
         }
 
