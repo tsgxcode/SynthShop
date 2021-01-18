@@ -12,17 +12,16 @@ namespace TheSynthShop
             Console.WriteLine("The Synth Shop!");
 
             Console.WriteLine("Buy a synth? ");
-            string v = Console.ReadLine();
-            string OneSynth = v;
+            string OneSynth = Console.ReadLine();
 
                string Yes = "Yes";
 
         do{
            
             Console.WriteLine("i = {0}", Yes);
-                break;
+            break;
 
-            } while (Yes == "Yes");
+        }while (Yes == "Yes");
 
         }
 
