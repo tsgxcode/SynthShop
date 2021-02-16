@@ -4,27 +4,35 @@ namespace TheSynthShop
 {
     class Program
     {
-     
+
 
 
         static void Main()
         {
             Console.WriteLine("The Synth Shop!");
 
-            Console.WriteLine("Buy a synth? ");
-            string OneSynth = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("New Synth Modual? ");
 
-               string Yes = "Yes";
+                addNewModual();
+                Console.WriteLine("Would you like to see the current list? ");
+                if (Console.ReadLine().ToUpper() == "YES") 
+                {
+                    addNewModual();
+                }
+                Console.WriteLine("Buy Another? ");
 
-        do{
-           
-            Console.WriteLine("i = {0}", Yes);
-            break;
+            } while (Console.ReadLine().ToUpper() == "YES");
 
-        }while (Yes == "Yes");
+
+             static void addNewModual()
+            {
+
+                Console.WriteLine("Buy a synth? ");
+                string OneSynth = Console.ReadLine();
+            }
 
         }
-
-
     }
 }
