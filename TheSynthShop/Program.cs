@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace TheSynthShop
 {
@@ -9,8 +10,10 @@ namespace TheSynthShop
 
         static void Main()
         {
+            // Shopping app. Uaser purches Modualar synth moduals
             Console.WriteLine("The Synth Shop!");
 
+            //Master loop
             do
             {
                 Console.WriteLine("New Synth Modual? ");
@@ -29,8 +32,11 @@ namespace TheSynthShop
              static void addNewModual()
             {
 
-                Console.WriteLine("Buy a synth? ");
+                Console.WriteLine("What kind? ");
                 string OneSynth = Console.ReadLine();
+
+
+                File.AppendAllText(@"C:\Users\TSG\source\repos\SynthShop\TheSynthShop\data.txt", (OneSynth) + Environment.NewLine);
             }
 
         }

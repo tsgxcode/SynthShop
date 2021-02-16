@@ -11,3 +11,4 @@ C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynt
 C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.dll
 C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.pdb
 C:\Users\TSG\source\repos\SynthShop\TheSynthShop\obj\Debug\netcoreapp3.1\TheSynthShop.genruntimeconfig.cache
+C:\Users\TSG\source\repos\SynthShop\TheSynthShop\bin\Debug\netcoreapp3.1\data.txt
